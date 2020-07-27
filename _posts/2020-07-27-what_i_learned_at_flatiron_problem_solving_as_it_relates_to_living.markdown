@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What I Learned at Flatiron: Problem Solving as It Relates to Living"
-date:       2020-07-27 04:50:03 +0000
+date:       2020-07-27 00:50:04 -0400
 permalink:  what_i_learned_at_flatiron_problem_solving_as_it_relates_to_living
 ---
 
@@ -15,12 +15,12 @@ There is also a time to zoom in on the task at hand.  Which brings us to..
 
 **Debugging in a Few Steps:**
 
-1. * Establish what it is that you are trying to do.  Actually state the desired outcome.
-2. * What is blocking you from this outcome?  Identify the problem.
-3. * What is your educated guess about what could solve this?
-4. * Test your hypothesis.  If you were wrong, use what you learnt to make another more fine tuned guess about what could be a possible solution .
+1. Establish what it is that you are trying to do.  Actually state the desired outcome.
+2. What is blocking you from this outcome?  Identify the problem.
+3. What is your educated guess about what could solve this?
+4. Test your hypothesis.  If you were wrong, use what you learnt to make another more fine tuned guess about what could be a possible solution .
 
-**Tips for Debugging: **
+**Tips for Debugging:**
 
 * Use search engines to find credible answers to your questions.
 * Ask yourself why, how and what?
@@ -64,11 +64,11 @@ Let’s apply a few of the plausible solutions to me, the experiment:
 * Stop caffeine intake after 1 pm
 * Set and strategically place multiple alarms
 * Redistribute evening tasks to other times of day. E.g.,
-* * Dinner clean up
-* * Laundry
-* * Provide ample and accessible snacks to my children right before bed time
-* * Set a study limit time
-* * Correspondence 
+  * Dinner clean up
+  * Laundry
+  * Provide ample and accessible snacks to my children right before bed time
+  * Set a study limit time
+  * Correspondence 
 * Use inhalers once a day
 
 # **Planning of an Application:**
